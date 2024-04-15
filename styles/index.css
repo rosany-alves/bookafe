@@ -1,0 +1,23 @@
+header nav{
+    background-color: #8ed684;
+}
+.card{
+    height: 900px;
+}
+.bg-bluePersonal{
+    background-color: #8ed684;
+    text-align: center;
+}
+.bg-laranjaPersonal{
+    color: #F4A623;
+}
+.bg-rosaPersonal{
+    background-color: #F7B6D2;
+}
+.text-rosaPersonal{
+    color: #F7B6D2;
+}
+form.bg-bluePersonal:hover{
+    background-color: #014c6d;
+    color: white;
+}
