@@ -11,11 +11,11 @@ header nav{
 .bg-laranjaPersonal{
     color: #F4A623;
 }
-.bg-rosaPersonal{
-    background-color: #F7B6D2;
+.bg-brownPersonal{
+    background-color: #1aa732;
 }
-.text-rosaPersonal{
-    color: #F7B6D2;
+.text-brownPersonal{
+    color: #5a1c14;
 }
 form.bg-bluePersonal:hover{
     background-color: #014c6d;
