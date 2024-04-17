@@ -21,3 +21,27 @@ form.bg-bluePersonal:hover{
     background-color: #014c6d;
     color: white;
 }
+@keyframes mudaCor {
+    0%{
+        color: var(--preto);
+    }
+    25%{
+        color: rgb(146, 148, 51);
+    }
+    50%{
+        color: var(--corPrimaria);
+    }
+    75%{
+        color: rgb(210, 180, 140);
+    }
+    100%{
+        color: var(--preto);
+    }
+}
+h3{
+    text-align: center;
+    margin: 10px 0px;
+    animation-name: mudaCor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
